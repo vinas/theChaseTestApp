@@ -1,3 +1,9 @@
+html {
+	overflow: hidden;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
 @font-face {
     font-family: BitParty;
     src: url('../font/8_bit_party.ttf');
